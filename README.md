@@ -46,11 +46,15 @@ In 3. we created this error:
   from (irb):1
   from /Users/username/.rvm/rubies/ruby-2.2.2/bin/irb:11:in '<main>'`
   
-Type of error: Name error
-File path: /Users/username/.rvm/rubies/ruby-2.2.2/bin/irb:11:in '<main>'
-Line number: 1
-What does it mean?: the name we wrote down is undefined
-How to solve error?: Define or initialize the name
+**Type of error:** Name error  
+
+**File path:** /Users/username/.rvm/rubies/ruby-2.2.2/bin/irb:11:in '<main>'  
+  
+**Line number:** 1  
+
+**What does it mean?:** the name we wrote down is undefined  
+
+**How to solve error?:** Define or initialize the name  
   
 ## 5. Unit tests
 
