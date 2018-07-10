@@ -52,7 +52,12 @@ Line number: 1
 What does it mean?: the name we wrote down is undefined
 How to solve error?: Define or initialize the name
   
-## 5. 
+## 5. Unit tests
+
+Although we ran Rspec, we got a Ruby error only.
+This is because we have not written any Rspec rules/tests for our code yet (we think).
+
+## 6. 
   
  
 
