@@ -28,7 +28,6 @@ use, release, see (if working)
 
 | Objects | Messages |
 |---|---|
-|person|use_bike|
 docking_station|release|
 |bike|bike_works?|
 
@@ -61,7 +60,15 @@ In 3. we created this error:
 Although we ran Rspec, we got a Ruby error only.
 This is because we have not written any Rspec rules/tests for our code yet (we think).
 
-## 6. 
+## 6. Pass first unit test
+
+Created new file for DockingStation class, and defined the class.
+Used require to link files.
+Explained difference in rspec findings.
+
+# 7. 
+
+
   
  
 
