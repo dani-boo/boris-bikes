@@ -11,7 +11,7 @@ describe DockingStation do
   it 'docks something' do
     bike = Bike.new
     subject.dock(bike)
-    # return th bike we dock
+    # return the bike we dock
     expect(subject.bike).to eq bike
     # { is_expected.to respond_to(:dock).with(1).argument }
   end
