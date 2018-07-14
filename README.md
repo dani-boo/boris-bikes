@@ -80,14 +80,21 @@ Explained difference in rspec findings.
 
 New user story:
 
-*As a member of the public,
-So that I am not confused and charged unnecessarily,
+*As a member of the public,  
+So that I am not confused and charged unnecessarily,  
 I'd like docking stations not to release bikes when there are none available.*
 
 Learnt new Ruby `fail` method, and RSpec {} syntax for exceptions
 
-## 13. 
+## 13. Limit the capacity
 
+New user story:
+
+*As a maintainer of the system,      
+So that I can control the distribution of bikes,    
+I'd like docking stations not to accept more bikes than their capacity.*
+
+Added error message if docking station ran out of space (full capacity) and stops user from docking bike there.
 
 
 
