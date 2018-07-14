@@ -74,11 +74,21 @@ Explained difference in rspec findings.
 
 ## 10. Actioned release_bike method
 
-## 11.
+## 11. Used instance variables & attribute reader
+
+## 12. Raising exceptions (error tests)
+
+New user story:
+
+*As a member of the public,
+So that I am not confused and charged unnecessarily,
+I'd like docking stations not to release bikes when there are none available.*
+
+Learnt new Ruby `fail` method, and RSpec {} syntax for exceptions
+
+## 13. 
 
 
-  
- 
 
 
 
