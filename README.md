@@ -48,7 +48,7 @@ In 3. we created this error:
 **Type of error:** Name error  
 
 **File path:** /Users/username/.rvm/rubies/ruby-2.2.2/bin/irb:11:in '<main>'  
-  
+
 **Line number:** 1  
 
 **What does it mean?:** the name we wrote down is undefined  
@@ -66,7 +66,15 @@ Created new file for DockingStation class, and defined the class.
 Used require to link files.
 Explained difference in rspec findings.
 
-# 7. 
+## 7. Ran feature test & fixed code for unit test
+
+## 8. Added release_bike method
+
+## 9. Built a bike
+
+## 10. Actioned release_bike method
+
+## 11.
 
 
   
