@@ -116,4 +116,6 @@ Wrapped collections
 
 ## 15. Single responsibility
 
+## 16. Defining constants
 
+## 17. 
