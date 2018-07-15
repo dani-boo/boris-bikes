@@ -118,4 +118,14 @@ Wrapped collections
 
 ## 16. Defining constants
 
-## 17. 
+## 17. Initializing defaults
+
+New user story:
+
+*As a system maintainer,  
+So that busy areas can be served more effectively,  
+I want to be able to specify a larger capacity when necessary.*
+
+Took way too long to fix newly introduced errors here; lots of going back to previous exercises.  
+ Solution was in understanding the difference between constant and instance variables, and where to use them.  
+ Onwards to the airport challenge!!!
