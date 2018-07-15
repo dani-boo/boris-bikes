@@ -1,10 +1,10 @@
 # Boris Bikes
 
-The first project in the Makers Bootcamp, Week 1
+**The first project in the Makers Bootcamp, Week 1**
 
 -------------------------
 
-THe idea behind this 22 step challenge is to familiarize ourselves with practical Test Driven Development using RSpec, Ruby, the command line (pry or irb), git, and GitHub. We also track our progress, learning experiences and goals on Diode.
+The idea behind this 22 step challenge is to familiarize ourselves with practical Test Driven Development using RSpec, Ruby, the command line (pry or irb), git, and GitHub. We also track our progress, learning experiences and goals on Diode.
 
 I wrote out my process in this README file, as a reminder for when I attempt the air traffic controller challenge.
 
