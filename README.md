@@ -1,6 +1,14 @@
 # Boris Bikes
 
-*The first project in the Makers Bootcamp, Week 1*
+The first project in the Makers Bootcamp, Week 1
+
+-------------------------
+
+THe idea behind this 22 step challenge is to familiarize ourselves with practical Test Driven Development using RSpec, Ruby, the command line (pry or irb), git, and GitHub. We also track our progress, learning experiences and goals on Diode.
+
+I wrote out my process in this README file, as a reminder for when I attempt the air traffic controller challenge.
+
+-----------------------------
 
 ## 1. Set up Project
 
@@ -96,8 +104,12 @@ I'd like docking stations not to accept more bikes than their capacity.*
 
 Added error message if docking station ran out of space (full capacity) and stops user from docking bike there.
 
+## 14. Complex attributes
 
+New user story:
 
+*As a system maintainer,  
+So that I can plan the distribution of bikes,  
+I want a docking station to have a default   capacity of 20 bikes.*  
 
-
-
+Wrapped collections
