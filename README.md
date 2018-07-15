@@ -55,8 +55,8 @@ In 3. we created this error:
   
 **Type of error:** Name error  
 
-**File path:** /Users/username/.rvm/rubies/ruby-2.2.2/bin/irb:11:in '<main>'  
-
+**File path:** `/Users/username/.rvm/rubies/ruby-2.2.2/bin/irb:11:in '<main>'`  
+  
 **Line number:** 1  
 
 **What does it mean?:** the name we wrote down is undefined  
