@@ -1,6 +1,6 @@
 # Boris Bikes
 
-**The first pairing project in the Makers Bootcamp, Week 1**
+**The first pairing project in the Makers Web Development Bootcamp, Week 1**
 
 ![alt text](http://res.cloudinary.com/dani-devs-and-designs/image/upload/v1531997485/BorisBikes_ilqlyv.jpg)
 
